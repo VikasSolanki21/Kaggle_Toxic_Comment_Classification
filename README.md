@@ -1,3 +1,3 @@
 # Kaggle Toxic Comment Classification
 
-Currently ranks at 192 (Top 6%)
+Currently ranks at 178 (Top 6%)
